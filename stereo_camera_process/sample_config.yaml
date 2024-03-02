@@ -1,0 +1,20 @@
+---
+  local_ip: "127.0.0.1"
+  local_port: 10000
+  cam1_port: 5000
+  cam1_id:   0
+  cam2_port: 5000
+  cam2_id:   1
+
+  transmit_matlab: 1
+  matlab_ip: "127.0.0.1"
+  matlab_port: 4000
+  
+  
+  cam1_params_path: 'sample_dataset/intrinsics/5002_0.yaml'
+  cam2_params_path: 'sample_dataset/intrinsics/5002_1.yaml'
+  max_markers_per_image: 1
+  ext_params_path: 'sample_dataset/ext_params_after_ba.pckl'
+  record: false
+  path: 'dataset_tmp_dir'
+  print_markers: 1
