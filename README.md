@@ -10,4 +10,4 @@ Elbow-NavMIS is a comprehensive CT-based registration and navigation system desi
 - User-friendly interface for ease of use in surgical settings
 
 ## License
-This project is licensed under the GNU LESSER GENERAL PUBLIC LICENSE.
+This project is licensed under a proprietary license. All rights reserved by the original authors.
