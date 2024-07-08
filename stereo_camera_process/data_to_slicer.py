@@ -47,7 +47,7 @@ if __name__ == "__main__":
     
     ############################# Registration #############################
     i = 0
-    for i in range (0, 20):
+    for i in range (0, 3):
         # Get first point
         received_data = receive_data()
         x_reg = received_data[0]*rate_x
